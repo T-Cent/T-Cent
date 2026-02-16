@@ -6,5 +6,6 @@ Some stuff you might find interesting:
 - Notes and source code ($\LaTeX$) for [Game Development with Unreal Engine](https://github.com/T-Cent/Notes-for-Unreal-Engine).
 - A [web-based physics engine](https://t-cent.github.io/web_physics_simulator/) that was ~vibe~ coded by our team and corrected by me. 
 - My ArtStation: [https://artstation.com/taraash](https://artstation.com/taraash).
+- A very high quality (+1|-1) succesfull merge in [OpenShadingLanguage](https://github.com/AcademySoftwareFoundation/OpenShadingLanguage/pull/2077)
 
    
