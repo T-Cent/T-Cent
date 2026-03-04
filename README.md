@@ -1,5 +1,4 @@
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?taraashmittal)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-taraashmittal-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/taraashmittal)
 Good evening. 
 
 Some stuff you might find interesting:
