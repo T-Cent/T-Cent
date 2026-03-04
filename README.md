@@ -1,5 +1,5 @@
-[![Kaggle](https://img.shields.io/badge/Kaggle-taraashmittal-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/taraashmittal)
-[![ArtStation](https://img.shields.io/badge/ArtStation-taraash-13AFF0?logo=artstation&logoColor=white)](https://www.artstation.com/taraash)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/taraashmittal)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white)](https://www.artstation.com/taraash)
 
 Good evening. 
 
